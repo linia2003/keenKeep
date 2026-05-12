@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "David Kim",
-    "picture": "https://i.pravatar.cc/150?u=david",
+    "picture": "https://i.pravatar.cc/150?img=58",
     "email": "david.kim@workmail.com",
     "days_since_contact": 8,
     "status": "almost due",
-    "tags": ["work", "tech"],
+    "tags": ["work"],
     "bio": "Senior Dev at a fintech startup. We grab coffee every few months to talk architecture.",
     "goal": 7,
     "next_due_date": "2025-07-15"
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Emma Wilson",
-    "picture": "https://i.pravatar.cc/150?u=emma",
+    "picture": "https://i.pravatar.cc/150?img=44",
     "email": "emma.w@gmail.com",
     "days_since_contact": 20,
     "status": "overdue",
@@ -26,11 +26,11 @@
   {
     "id": 3,
     "name": "Lisa Nakamura",
-    "picture": "https://i.pravatar.cc/150?u=lisa",
+    "picture": "https://i.pravatar.cc/150?img=48",
     "email": "lisa.design@outlook.com",
     "days_since_contact": 3,
     "status": "on-track",
-    "tags": ["work", "design"],
+    "tags": ["gym"],
     "bio": "Freelance UI designer. Always shares the best inspiration and Figma tips.",
     "goal": 10,
     "next_due_date": "2025-07-25"
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "James Wright",
-    "picture": "https://i.pravatar.cc/150?u=james",
+    "picture": "https://i.pravatar.cc/150?img=68",
     "email": "james.wright@hobby.com",
     "days_since_contact": 12,
     "status": "almost due",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "Sarah Chen",
-    "picture": "https://i.pravatar.cc/150?u=sarah",
+    "picture": "https://i.pravatar.cc/150?img=47",
     "email": "sarah.c@uni.edu",
     "days_since_contact": 35,
     "status": "overdue",
@@ -62,11 +62,11 @@
   {
     "id": 6,
     "name": "Michael Ross",
-    "picture": "https://i.pravatar.cc/150?u=mike",
+    "picture": "https://i.pravatar.cc/150?img=56",
     "email": "mike.ross@legal.com",
     "days_since_contact": 2,
     "status": "on-track",
-    "tags": ["work", "mentor"],
+    "tags": ["mentor"],
     "bio": "Former manager who taught me everything about project management.",
     "goal": 30,
     "next_due_date": "2025-08-10"
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "name": "Anika Rahman",
-    "picture": "https://i.pravatar.cc/150?u=anika",
+    "picture": "https://i.pravatar.cc/150?img=41",
     "email": "anika.r@community.org",
     "days_since_contact": 5,
     "status": "on-track",
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "name": "Chris Evans",
-    "picture": "https://i.pravatar.cc/150?u=chris",
+    "picture": "https://i.pravatar.cc/150?img=12",
     "email": "chris.e@fitness.com",
     "days_since_contact": 9,
     "status": "almost due",

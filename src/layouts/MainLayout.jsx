@@ -1,14 +1,15 @@
 import { Outlet } from 'react-router-dom';
 import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
 
 const MainLayout = () => {
   return (
-    <div className="min-h-screen bg-[#F8FAFC]">
+    <div className="min-h-screen flex flex-col bg-[#F8FAFC]">
       <Navbar />
-      <main className="max-w-7xl mx-auto p-6">
-        <Outlet />
+      <main className="flex-grow">
+        <Outlet /> 
       </main>
-      {/* Footer ekhane bosbe*/}
+      <Footer />
     </div>
   );
 };
