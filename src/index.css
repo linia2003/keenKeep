@@ -2,20 +2,21 @@
 @plugin "daisyui";
 
 @theme {
-  --color-brand-green: #244D3F; 
+  --color-brand-green: #244D3F;
 }
-
 
 @layer base {
   html, body, #root {
     height: 100%;
     margin: 0;
     padding: 0;
+    overflow-x: hidden; 
   }
 
   body {
     background-color: #F8FAFC;
-    color: #1E1E1E; 
-    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: #1E1E1E;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px; 
   }
 }
